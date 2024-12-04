@@ -15,6 +15,7 @@
       "to": "#07C983"
     }
   },
+  "versions": ["v2", "v1"],
   "topbarLinks": [
     {
       "name": "Support",
